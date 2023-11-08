@@ -1,0 +1,17 @@
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\ado3.exe.config
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\ado3.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\ado3.pdb
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\EntityFramework.dll
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\EntityFramework.xml
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.Form1.resources
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.Properties.Resources.resources
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.csproj.CopyComplete
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.pdb
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.Form2.resources
+C:\Users\Mcintosh\Downloads\ADO_Net\3\ado3\obj\Debug\ado3.Form3.resources
